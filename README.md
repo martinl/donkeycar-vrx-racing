@@ -12,8 +12,11 @@ BOM
 * PCA9586 https://www.oomipood.ee/product/pca9685_shield_mugandusplaat_mootorite_uhendamiseks_raspberryle?q=pca9685 11EUR
 * Total 162+42+39+11 = 254EUR
 
-RPi3
-===
+RPi3+
+=====
+
+Wiring
+------
 * 3V3 - red
 * SDA - yellow
 * SDC - green
@@ -21,12 +24,20 @@ RPi3
 * GND - black
 
 PCA9586
-=======
+-------
 * channel 0: ESC/BEC
 * channel 1: steering servo 
 
+Software
+--------
+Default donkeycar image does not work with Raspberry Pi 3+ (only with RPi3). See here https://github.com/wroscoe/donkey/issues/230 for a link to RPi3+ compatible image and possible issues and solutions.
+
+RPi3+ image is missing d2 directory with car definition, run this before calibration in rpi:
+```
+donkey createcar --template donkey2 ~/d2
+```
 Calibration
-===========
+-----------
 * fwd speed 390 (max 400)
 * rwd speed 360 (max 330)
 
