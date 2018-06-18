@@ -1,4 +1,4 @@
-These are build notes for http://www.donkeycar.com/ platform using VRX Racing Coyote EBD http://www.riverhobby.com/en/detail.php?id=48 as base. See also http://diyrobocars.com/ and http://docs.donkeycar.com/
+These are build notes for [donkeycar](http://www.donkeycar.com/) platform using [VRX Racing Coyote EBD 1:10](http://www.riverhobby.com/en/detail.php?id=48) as base. See also http://diyrobocars.com/ and http://docs.donkeycar.com/
 
 BOM
 ===
@@ -22,6 +22,8 @@ Wiring
 * SDC - green
 
 * GND - black
+
+* [Electronics diagram](Electronics.pdf)
 
 PCA9586
 -------
