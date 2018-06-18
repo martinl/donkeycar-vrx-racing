@@ -2,7 +2,7 @@ These are build notes for http://www.donkeycar.com/ platform using VRX Racing Co
 
 BOM
 ===
-* VRX Racing Coyote EBD (RTR) http://www.riverhobby.com/en/detail.php?id=48 160EUR
+* VRX Racing Coyote EBD (RTR) http://www.riverhobby.com/en/detail.php?id=48 162EUR
 * local RC shops:
   * https://www.photopoint.ee/kaugjuhitavad-autod?&m=5875&fg=3090&os=1&new=0&pp=36&view=grid&s=price_asc
   * https://rc-est.ee/catalog/index.php?cPath=1_164&sort=3a&page=2&osCsid=bc98706eb21c5e89962b50bf292e0487
