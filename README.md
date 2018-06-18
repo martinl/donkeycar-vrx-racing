@@ -32,7 +32,7 @@ PCA9586
 
 Software
 --------
-Default donkeycar image does not work with Raspberry Pi 3+ (only with RPi3). See here https://github.com/wroscoe/donkey/issues/230 for a link to RPi3+ compatible image and possible issues and solutions.
+Default donkeycar image does not work with Raspberry Pi 3+ (only with RPi3). See [here](https://github.com/wroscoe/donkey/issues/230) for a link to RPi3+ compatible image and possible issues and solutions.
 
 RPi3+ image is missing d2 directory with car definition, run this before calibration in rpi:
 ```
