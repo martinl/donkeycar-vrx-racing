@@ -1,3 +1,5 @@
+These are build notes for http://www.donkeycar.com/ platform using VRX Racing Coyote EBD http://www.riverhobby.com/en/detail.php?id=48 as base. See also http://diyrobocars.com/ and http://docs.donkeycar.com/
+
 BOM
 ===
 * VRX Racing Coyote EBD (RTR) http://www.riverhobby.com/en/detail.php?id=48 160EUR
