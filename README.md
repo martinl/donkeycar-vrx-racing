@@ -10,7 +10,7 @@ BOM
 * Raspberry Pi 3+ https://www.oomipood.ee/product/2842228_raspberry_pi_3_mudel_b_moodul_1_4ghz_1gb 42EUR
 * Raspberry Pi Camera https://www.oomipood.ee/product/2510728_raspberry_pi_camera_board_8mp_v2 39EUR
 * PCA9586 https://www.oomipood.ee/product/pca9685_shield_mugandusplaat_mootorite_uhendamiseks_raspberryle?q=pca9685 11EUR
-* Step down DC-DC converter with LCD https://www.oomipood.ee/ee/product/ps_step_down_ind_toitemoodul_dc_dc_step_down_1_3_37v_15w_lm2596s_led_n 12EUR
+* Step-down USB DC-DC converter with LCD https://www.oomipood.ee/ee/product/ps_step_down_ind_toitemoodul_dc_dc_step_down_1_3_37v_15w_lm2596s_led_n 12EUR
 * Total 162+42+39+11+12 = 266EUR
 
 RPi3+
