@@ -1,1 +1,1 @@
-See [wiki](../../wiki)
+Moved to [wiki](../../wiki)
