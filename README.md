@@ -3,9 +3,9 @@ These are build notes for [donkeycar](http://www.donkeycar.com/) platform using 
 BOM
 ===
 * VRX Racing Coyote EBD (RTR) http://www.riverhobby.com/en/detail.php?id=48 162EUR
-* local RC shops:
+* EU RC shops:
   * https://www.photopoint.ee/kaugjuhitavad-autod?&m=5875&fg=3090&os=1&new=0&pp=36&view=grid&s=price_asc
-  * https://rc-est.ee/catalog/index.php?cPath=1_164&sort=3a&page=2&osCsid=bc98706eb21c5e89962b50bf292e0487
+  * https://www.vrxracing.it/prodotto/coyote-ebd-suv-110-off-road-elettrico-a-spazzola-2-4-ghz-4wd-rtr-vrx/
   * http://gear7.eu/
 * Raspberry Pi 3+ https://www.oomipood.ee/product/2842228_raspberry_pi_3_mudel_b_moodul_1_4ghz_1gb 42EUR
 * Raspberry Pi Camera https://www.oomipood.ee/product/2510728_raspberry_pi_camera_board_8mp_v2 39EUR
